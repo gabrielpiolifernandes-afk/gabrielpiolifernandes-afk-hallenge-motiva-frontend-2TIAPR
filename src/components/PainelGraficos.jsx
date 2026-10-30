@@ -1,4 +1,4 @@
-mport GraficoBarras from './GraficoBarras.jsx'
+import GraficoBarras from './GraficoBarras.jsx'
 import GraficoPizza from './GraficoPizza.jsx'
 import GraficoGauge from './GraficoGauge.jsx'
 import {
