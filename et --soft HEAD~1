@@ -1,0 +1,17 @@
+[33mcommit 62f193ccb381e6224697aa5f9968de1879b5ec8a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Gabrielpiolifernandes-afk <gabrielpiolifernandes@gmail.com>
+Date:   Fri Oct 30 21:53:57 2026 -0300
+
+    finalizando projeto
+
+ src/App.css                       | 508 [32m+++++++++++++++++++++++++++[m[31m-----------[m
+ src/App.jsx                       |  45 [32m++++[m
+ src/components/GraficoGauge.jsx   |  55 [32m+++++[m
+ src/components/PainelGraficos.jsx |  37 [32m+++[m
+ src/components/TabelaTrechos.jsx  |  44 [32m++++[m
+ src/index.css                     | 126 [32m++++[m[31m------[m
+ src/pages/Consultas.jsx           |  28 [32m+++[m
+ src/pages/Dashboard.jsx           |  16 [32m++[m
+ src/pages/Home.jsx                |  57 [32m+++++[m
+ src/pages/Interacoes.jsx          |  25 [32m++[m
+ 10 files changed, 712 insertions(+), 229 deletions(-)
